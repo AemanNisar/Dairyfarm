@@ -1,0 +1,34 @@
+# Build output
+/build/
+/dist/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# NetBeans
+/nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temp
+*.log
+*.tmp
+*~
+
+# Env / secrets
+.env
+.env.*
+*.local
